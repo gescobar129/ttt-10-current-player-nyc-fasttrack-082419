@@ -8,7 +8,7 @@
   #  end
  # end 
  # return arr.length 
-end
+#end
 
 #know this ^
 #stragey 2. Another way of coding the above function
